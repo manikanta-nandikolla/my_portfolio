@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django-related files
+*.log
+db.sqlite3
+db.sqlite3-journal
+/media/
+staticfiles/
+.env
+*.pem
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code and IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js-related files (if any)
+node_modules/
+npm-debug.log
+
+# macOS system files
+.DS_Store
+
+# PyCharm
+*.iml
